@@ -1,0 +1,5 @@
+name: YarasaEtkinlik
+version: '${project.version}'
+main: tr.donsuzturk.yarasaetkinlik.YarasaEtkinlik
+api-version: 1.16
+authors: [ DonsuzTurk ]
